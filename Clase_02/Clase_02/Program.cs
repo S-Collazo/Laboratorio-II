@@ -88,7 +88,7 @@ namespace Clase_02
     {
         public double CalcularAreaCuadrado(double longitudLado)
         {
-            double area = longitudLado * longitudLado;
+            double area = Math.Pow(longitudLado, 2);
             return area;
         }
         public double CalcularAreaTriangulo(double cbase, double altura)
