@@ -1,0 +1,15 @@
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\bin\Debug\net6.0\Clase_03.exe
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\bin\Debug\net6.0\Clase_03.deps.json
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\bin\Debug\net6.0\Clase_03.runtimeconfig.json
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\bin\Debug\net6.0\Clase_03.dll
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\bin\Debug\net6.0\Clase_03.pdb
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.csproj.AssemblyReference.cache
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.AssemblyInfoInputs.cache
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.AssemblyInfo.cs
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.dll
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\refint\Clase_03.dll
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.pdb
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\Clase_03.genruntimeconfig.cache
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_03\Clase_03\obj\Debug\net6.0\ref\Clase_03.dll
