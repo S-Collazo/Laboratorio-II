@@ -1,0 +1,5 @@
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_04\Cotizador\obj\Debug\net6.0\Cotizador.csproj.AssemblyReference.cache
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_04\Cotizador\obj\Debug\net6.0\Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_04\Cotizador\obj\Debug\net6.0\Cotizador.AssemblyInfoInputs.cache
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_04\Cotizador\obj\Debug\net6.0\Cotizador.AssemblyInfo.cs
+C:\Users\Santiago\Documents\UTN\Laboratorio II\Clase_04\Cotizador\obj\Debug\net6.0\Cotizador.csproj.CoreCompileInputs.cache
